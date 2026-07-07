@@ -67,23 +67,37 @@ CS student from **Tashkent, Uzbekistan** 🇺🇿 who picked the phone Xiaomi fo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brizzzzuy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6900&icon_color=ff6900&text_color=c9d1d9&ring_color=ff6900" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizzzzuy&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6900&text_color=c9d1d9" height="165" alt="Top languages"/>
+<a href="https://github.com/brizzzzuy?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbrizzzzuy&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=ff6900&labelColor=0d1117" alt="Public repos"/></a>
+<a href="https://github.com/brizzzzuy?tab=followers"><img src="https://img.shields.io/github/followers/brizzzzuy?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=ff6900&labelColor=0d1117" alt="Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=brizzzzuy&style=for-the-badge&color=ff6900&label=PROFILE%20VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=brizzzzuy&hide_border=true&background=0d1117&ring=ff6900&fire=ff6900&currStreakLabel=ff6900&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=brizzzzuy&hide_border=true&background=0d1117&ring=ff6900&fire=ff6900&currStreakLabel=ff6900&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165" alt="Contribution streak"/>
 
 </div>
+
+<!--
+  The classic github-readme-stats "stats" + "top languages" cards used to live
+  here, but the public instance (github-readme-stats.vercel.app) is chronically
+  rate-limited and returns 503, so the images break. To bring them back reliably,
+  self-host your own instance in ~5 min (Deploy-to-Vercel button + a GitHub token):
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+  Then paste these two lines back into the section above, swapping YOUR-INSTANCE:
+  <img src="https://YOUR-INSTANCE.vercel.app/api?username=brizzzzuy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6900&icon_color=ff6900&text_color=c9d1d9&ring_color=ff6900" height="165" alt="GitHub stats"/>
+  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=brizzzzuy&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6900&text_color=c9d1d9" height="165" alt="Top languages"/>
+-->
 
 ## `$ ls projects/ --featured`
 
 <div align="center">
 
-<a href="https://github.com/brizzzzuy/ziyi-hyperos-ports"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brizzzzuy&repo=ziyi-hyperos-ports&hide_border=true&bg_color=0d1117&title_color=ff6900&text_color=c9d1d9&icon_color=ff6900" alt="ziyi-hyperos-ports"/></a>
-<a href="https://github.com/brizzzzuy/ziyi-port"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brizzzzuy&repo=ziyi-port&hide_border=true&bg_color=0d1117&title_color=ff6900&text_color=c9d1d9&icon_color=ff6900" alt="ziyi-port"/></a>
+<a href="https://github.com/brizzzzuy/ziyi-hyperos-ports"><img src="https://img.shields.io/badge/ziyi--hyperos--ports-HyperOS%20release%20hub-ff6900?style=for-the-badge&logo=xiaomi&logoColor=white&labelColor=0d1117" alt="ziyi-hyperos-ports"/></a>
+<a href="https://github.com/brizzzzuy/ziyi-port"><img src="https://img.shields.io/badge/ziyi--port-debloat%20build%20pipeline-ff6900?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117" alt="ziyi-port"/></a>
 
-<a href="https://github.com/brizzzzuy/brizz-roms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brizzzzuy&repo=brizz-roms&hide_border=true&bg_color=0d1117&title_color=ff6900&text_color=c9d1d9&icon_color=ff6900" alt="brizz-roms"/></a>
+<a href="https://github.com/brizzzzuy/brizz-roms"><img src="https://img.shields.io/badge/brizz--roms-Django%20site%20%E2%80%94%20brizz.uz-ff6900?style=for-the-badge&logo=django&logoColor=white&labelColor=0d1117" alt="brizz-roms"/></a>
+
+<sub>Live repo cards need the same self-hosted github-readme-stats instance noted above; these badges always render.</sub>
 
 </div>
 
